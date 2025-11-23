@@ -1,0 +1,5 @@
+{
+  "name": "LGGJ Mod Simulator",
+  "description": "Simulador de moderação da live do LGGJ. Gerencie o chat, o Discord e o Twitter enquanto o caos acontece.",
+  "requestFramePermissions": []
+}
